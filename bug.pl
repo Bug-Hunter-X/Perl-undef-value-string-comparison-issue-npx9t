@@ -1,0 +1,1 @@
+my $var = undef;if ($var eq 'some_value') { print 'This will not be printed!';}elsif ($var ne 'some_value'){ print 'This will be printed!';}
